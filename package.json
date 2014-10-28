@@ -1,0 +1,10 @@
+{
+  "name": "DAx-Annotater",
+  "version": "0.0.1",
+  "description": "Annotate a DAx derived .csv with additional metadata from the /programmes API",
+  "dependencies": {
+    "async": "*",
+    "node-curl": "^0.3.3",
+    "request": "^2.47.0"
+  }
+}
